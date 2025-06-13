@@ -1558,7 +1558,7 @@
           <mxGeometry x="277" y="686.65" width="37.65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HT_1XC3G_8hqekhAmTG4-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Application_Insights.svg;" vertex="1" parent="1">
-          <mxGeometry x="726.41" y="859.59" width="23.34" height="33.41" as="geometry" />
+          <mxGeometry x="722.04" y="560" width="23.34" height="33.41" as="geometry" />
         </mxCell>
         <mxCell id="HT_1XC3G_8hqekhAmTG4-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="1">
           <mxGeometry x="320.00000000000006" y="646.65" width="30" height="30" as="geometry" />
@@ -1623,10 +1623,13 @@
         <mxCell id="HT_1XC3G_8hqekhAmTG4-23" value="CIAM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="710.31" y="937.5" width="88.91" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="HT_1XC3G_8hqekhAmTG4-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1.001;exitY=0.693;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QwgAwVsrADc-x2Dln6Yf-17" target="HT_1XC3G_8hqekhAmTG4-23">
+        <mxCell id="HT_1XC3G_8hqekhAmTG4-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1.002;exitY=0.842;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QwgAwVsrADc-x2Dln6Yf-17" target="HT_1XC3G_8hqekhAmTG4-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="590" as="sourcePoint" />
             <mxPoint x="490" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="755" y="895" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HT_1XC3G_8hqekhAmTG4-25" value="App Reposit" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
