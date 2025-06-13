@@ -1560,7 +1560,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v2n0KaBkUFjLe9Rt1YQc-4" value="App Configuration" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/App_Configuration.svg;" vertex="1" parent="1">
+        <mxCell id="v2n0KaBkUFjLe9Rt1YQc-4" value="App&amp;nbsp;&lt;div&gt;Configuration&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/App_Configuration.svg;" vertex="1" parent="1">
           <mxGeometry x="277" y="804" width="37.65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HT_1XC3G_8hqekhAmTG4-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Application_Insights.svg;" vertex="1" parent="1">
@@ -1627,6 +1627,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="311" y="459" as="sourcePoint" />
             <mxPoint x="430" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HT_1XC3G_8hqekhAmTG4-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.981;exitY=0.497;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HT_1XC3G_8hqekhAmTG4-18" target="QwgAwVsrADc-x2Dln6Yf-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="640" as="sourcePoint" />
+            <mxPoint x="550" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
