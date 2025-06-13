@@ -1569,8 +1569,14 @@
             <mxPoint x="610" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v2n0KaBkUFjLe9Rt1YQc-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/App_Configuration.svg;" vertex="1" parent="1">
-          <mxGeometry x="522" y="670" width="64" height="68" as="geometry" />
+        <mxCell id="v2n0KaBkUFjLe9Rt1YQc-4" value="App Configuration" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/App_Configuration.svg;" vertex="1" parent="1">
+          <mxGeometry x="522" y="670" width="37.65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HT_1XC3G_8hqekhAmTG4-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Application_Insights.svg;" vertex="1" parent="1">
+          <mxGeometry x="624.66" y="670" width="27.94" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HT_1XC3G_8hqekhAmTG4-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="1">
+          <mxGeometry x="682.35" y="670" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
