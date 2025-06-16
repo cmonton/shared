@@ -1324,7 +1324,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FtAnwF7cDmpdNDoN4sUY" name="EMT - Before New Backend Setup">
-    <mxGraphModel dx="934" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1355" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1472,7 +1472,7 @@
           <mxGeometry x="384.66" y="310" width="96.92" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HT_1XC3G_8hqekhAmTG4-18" value="SignalR" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/web/SignalR.svg;" vertex="1" parent="1">
-          <mxGeometry x="414.94" y="484.91999999999996" width="36.36" height="36.36" as="geometry" />
+          <mxGeometry x="420.94" y="484.91999999999996" width="36.36" height="36.36" as="geometry" />
         </mxCell>
         <mxCell id="HT_1XC3G_8hqekhAmTG4-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.557;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.009;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DHALzOvIf9t4fHAnl1yb-1" target="-gI-3VRELFphIkfcnOff-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
