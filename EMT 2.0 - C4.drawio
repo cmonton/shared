@@ -1685,6 +1685,12 @@
         <mxCell id="-gI-3VRELFphIkfcnOff-48" value="Workers:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="532.67" y="860" width="129.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-gI-3VRELFphIkfcnOff-50" value="Redis" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="414.94" y="570" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-gI-3VRELFphIkfcnOff-51" value="Zipkin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="414.94" y="630.07" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
