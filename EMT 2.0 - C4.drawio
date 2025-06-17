@@ -1871,7 +1871,7 @@
           <mxGeometry x="288.83" y="528" width="37.65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9ID2aEL1oR7nLxmyUBkj-35" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Application_Insights.svg;" vertex="1" parent="9ID2aEL1oR7nLxmyUBkj-1">
-          <mxGeometry x="710.31" y="757.16" width="23.34" height="33.41" as="geometry" />
+          <mxGeometry x="710.31" y="766.5899999999999" width="23.34" height="33.41" as="geometry" />
         </mxCell>
         <mxCell id="9ID2aEL1oR7nLxmyUBkj-36" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="9ID2aEL1oR7nLxmyUBkj-1">
           <mxGeometry x="342" y="509.28" width="30" height="30" as="geometry" />
@@ -1929,7 +1929,7 @@
         </mxCell>
         <mxCell id="9ID2aEL1oR7nLxmyUBkj-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9ID2aEL1oR7nLxmyUBkj-1" target="9ID2aEL1oR7nLxmyUBkj-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="770" as="sourcePoint" />
+            <mxPoint x="660" y="780" as="sourcePoint" />
             <mxPoint x="400" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
