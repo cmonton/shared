@@ -1871,7 +1871,7 @@
           <mxGeometry x="288.83" y="528" width="37.65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9ID2aEL1oR7nLxmyUBkj-35" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Application_Insights.svg;" vertex="1" parent="9ID2aEL1oR7nLxmyUBkj-1">
-          <mxGeometry x="719.42" y="790.5699999999999" width="23.34" height="33.41" as="geometry" />
+          <mxGeometry x="715.64" y="776.8" width="23.34" height="33.41" as="geometry" />
         </mxCell>
         <mxCell id="9ID2aEL1oR7nLxmyUBkj-36" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="9ID2aEL1oR7nLxmyUBkj-1">
           <mxGeometry x="342" y="509.28" width="30" height="30" as="geometry" />
