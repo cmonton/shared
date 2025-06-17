@@ -2312,7 +2312,7 @@
           <mxGeometry x="259.2" y="630.79" width="96.92" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sSWT9zncRYOyNoxxV8Pu-2" value="SendGrid" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/SendGrid_Accounts.svg;" vertex="1" parent="9ID2aEL1oR7nLxmyUBkj-1">
-          <mxGeometry x="313.51000000000005" y="1040" width="28.49" height="29" as="geometry" />
+          <mxGeometry x="313.51000000000005" y="1039" width="28.49" height="29" as="geometry" />
         </mxCell>
         <mxCell id="sSWT9zncRYOyNoxxV8Pu-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.959;entryY=0.199;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="9ID2aEL1oR7nLxmyUBkj-1" source="SHYb3est6qgfEKH-fpdD-10" target="sSWT9zncRYOyNoxxV8Pu-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
