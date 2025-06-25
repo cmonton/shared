@@ -2376,7 +2376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OdIgDA1E_eRBcE8gCV9u" name="EMT - To Be New Backend Initial Setup">
-    <mxGraphModel dx="2026" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1417" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2830,7 +2830,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="vN3dJH7TIxmJ2zEkyQNd-153" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="vN3dJH7TIxmJ2zEkyQNd-153" value="" style="group;fillColor=#d5e8d4;strokeColor=#82B366;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2825" y="996.5199999999999" width="320" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vN3dJH7TIxmJ2zEkyQNd-154" value="&lt;b&gt;EMT - Azure SQL&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FBFAFF;dashed=1;arcSize=2;verticalAlign=top;align=left;spacingLeft=5;spacingTop=-2;strokeWidth=4;strokeColor=#B9E0A5;" parent="vN3dJH7TIxmJ2zEkyQNd-153" vertex="1">
