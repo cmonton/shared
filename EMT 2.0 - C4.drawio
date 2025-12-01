@@ -5253,7 +5253,7 @@
         <mxCell id="s2K9ebZgEX8ohoxXvbTI-81" parent="s2K9ebZgEX8ohoxXvbTI-75" style="text;html=1;strokeColor=#E6E6E6;fillColor=#FFFFEE;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;spacing=0;spacingLeft=3;" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Legacy Microservices &amp;amp; Workers&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- New API&#39;s&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- New Workers&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="61.66" width="145.45" x="64.55" y="10.39" as="geometry" />
         </mxCell>
-        <mxCell id="s2K9ebZgEX8ohoxXvbTI-92" edge="1" parent="1" source="s2K9ebZgEX8ohoxXvbTI-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;" target="s2K9ebZgEX8ohoxXvbTI-76">
+        <mxCell id="s2K9ebZgEX8ohoxXvbTI-92" edge="1" parent="1" source="s2K9ebZgEX8ohoxXvbTI-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;" target="s2K9ebZgEX8ohoxXvbTI-76">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="896" y="1357" as="sourcePoint" />
             <mxPoint x="850" y="1316" as="targetPoint" />
@@ -5317,6 +5317,36 @@
         </mxCell>
         <mxCell id="93CPMOqUZznOvmXp05dW-3" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" value="&lt;span style=&quot;font-size: 11px; font-weight: 700;&quot;&gt;prodsaemtdaftax&lt;/span&gt;" vertex="1">
           <mxGeometry height="36" width="45" x="1903.25" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="KmTk_VziBU7VYXnwYay_-1" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="90" width="427" x="425" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="KmTk_VziBU7VYXnwYay_-2" parent="KmTk_VziBU7VYXnwYay_-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1;strokeColor=#999999;strokeWidth=1;container=0;shadow=0;" value="" vertex="1">
+          <mxGeometry height="77.14285714285715" width="427" as="geometry" />
+        </mxCell>
+        <mxCell id="KmTk_VziBU7VYXnwYay_-3" parent="KmTk_VziBU7VYXnwYay_-1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" value="&lt;b&gt;PROD-APIM-App-DAF-Tax&lt;/b&gt;" vertex="1">
+          <mxGeometry height="23.50515463917526" width="25.4659793814433" x="310" y="31.7777706185567" as="geometry" />
+        </mxCell>
+        <mxCell id="KmTk_VziBU7VYXnwYay_-4" parent="KmTk_VziBU7VYXnwYay_-1" style="verticalLabelPosition=top;html=1;verticalAlign=bottom;align=right;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;labelPosition=center;fontSize=11;aspect=fixed;" value="&lt;b&gt;PROD_Subnet_AKS_DAF_Tax_WE&lt;/b&gt;" vertex="1">
+          <mxGeometry height="21.846511627906978" width="39.72093023255814" x="370" y="26.280000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="KmTk_VziBU7VYXnwYay_-5" parent="KmTk_VziBU7VYXnwYay_-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=8;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.route_table;labelPosition=center;" value="Route Table" vertex="1">
+          <mxGeometry height="29.790697674418603" width="29.790697674418603" x="10" y="26.280000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="KmTk_VziBU7VYXnwYay_-6" parent="KmTk_VziBU7VYXnwYay_-1" style="text;html=1;strokeColor=#E6E6E6;fillColor=#FFFFEE;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;spacing=0;spacingLeft=3;" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;- APIM for new API&#39;s&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="57.183749999999996" width="145.45" x="80" y="10.31625" as="geometry" />
+        </mxCell>
+        <mxCell id="KmTk_VziBU7VYXnwYay_-7" edge="1" parent="1" source="s2K9ebZgEX8ohoxXvbTI-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;" target="KmTk_VziBU7VYXnwYay_-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="886" y="1358" as="sourcePoint" />
+            <mxPoint x="800" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KmTk_VziBU7VYXnwYay_-8" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;" target="s2K9ebZgEX8ohoxXvbTI-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="634" y="980" as="sourcePoint" />
+            <mxPoint x="660" y="1120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
