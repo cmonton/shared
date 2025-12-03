@@ -642,7 +642,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="HGGhW4vZBzeLgLDT6o7a-9" parent="aQlqcqNrcVZH24Oo7mDU-1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="ENTRA" vertex="1">
+        <mxCell id="HGGhW4vZBzeLgLDT6o7a-9" parent="aQlqcqNrcVZH24Oo7mDU-1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" value="ENTRA" vertex="1">
           <mxGeometry height="40" width="120" x="-546" y="707" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS" c4Description="Authenticate API" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="HGGhW4vZBzeLgLDT6o7a-11">
