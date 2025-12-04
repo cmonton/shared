@@ -5506,6 +5506,12 @@
             </mxGeometry>
           </mxCell>
         </object>
+        <mxCell id="yZsQv4XLnoXi4QZKFen4-0" parent="34Ete5r9mKEJG7yDct78-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=left;verticalAlign=top;spacingLeft=5;strokeWidth=1;strokeColor=#000000;dashed=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Data factory: emt.datafactory&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="310" x="2070" y="789" as="geometry" />
+        </mxCell>
+        <mxCell id="yZsQv4XLnoXi4QZKFen4-1" parent="34Ete5r9mKEJG7yDct78-1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="2353.19" y="793" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
