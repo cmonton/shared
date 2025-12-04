@@ -4783,7 +4783,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="EMT - To Be New Backend Final Setup" id="i-8ZZ98sBH_1q-2Dl6II">
-    <mxGraphModel dx="2026" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1668" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="34Ete5r9mKEJG7yDct78-0" />
         <mxCell id="34Ete5r9mKEJG7yDct78-1" parent="34Ete5r9mKEJG7yDct78-0" />
@@ -5051,22 +5051,6 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="TSQL" c4Description="Query DB" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="34Ete5r9mKEJG7yDct78-99">
-          <mxCell edge="1" parent="34Ete5r9mKEJG7yDct78-1" source="34Ete5r9mKEJG7yDct78-8" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=light-dark(#666666, #ededed);elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;fillColor=#d5e8d4;exitX=0.999;exitY=0.242;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.881;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryPerimeter=0;exitPerimeter=0;" target="34Ete5r9mKEJG7yDct78-5">
-            <mxGeometry relative="1" width="240" x="-0.0474" y="-21" as="geometry">
-              <mxPoint as="offset" />
-              <Array as="points">
-                <mxPoint x="1779" y="1120" />
-                <mxPoint x="1830" y="1120" />
-                <mxPoint x="1830" y="1049" />
-                <mxPoint x="1930" y="1049" />
-                <mxPoint x="1930" y="929" />
-              </Array>
-              <mxPoint x="1540" y="996" as="sourcePoint" />
-              <mxPoint x="1945" y="1191" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="AMQP" c4Description="Publish message&#xa;Receive message" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="34Ete5r9mKEJG7yDct78-100">
           <mxCell edge="1" parent="34Ete5r9mKEJG7yDct78-1" source="34Ete5r9mKEJG7yDct78-8" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#666666;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;fillColor=#f5f5f5;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=-0.032;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;" target="34Ete5r9mKEJG7yDct78-5">
             <mxGeometry relative="1" width="240" x="0.0184" y="20" as="geometry">
@@ -5110,17 +5094,6 @@
             <mxGeometry relative="1" width="240" as="geometry">
               <mxPoint x="1350" y="890" as="sourcePoint" />
               <mxPoint x="1590" y="890" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS" c4Description="" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="34Ete5r9mKEJG7yDct78-214">
-          <mxCell edge="1" parent="34Ete5r9mKEJG7yDct78-1" source="34Ete5r9mKEJG7yDct78-107" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#82b366;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;" target="34Ete5r9mKEJG7yDct78-8">
-            <mxGeometry relative="1" width="240" as="geometry">
-              <Array as="points">
-                <mxPoint x="1460" y="874" />
-              </Array>
-              <mxPoint x="1350" y="867" as="sourcePoint" />
-              <mxPoint x="1984" y="960" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
@@ -5515,6 +5488,24 @@
         <mxCell id="rfIipkeqp4AfCaHQojGj-208" parent="34Ete5r9mKEJG7yDct78-1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=ns" value="" vertex="1">
           <mxGeometry height="27" width="28.13" x="903.46" y="1381.38" as="geometry" />
         </mxCell>
+        <object placeholders="1" c4Type="Relationship" c4Technology="HTTPS" c4Description="" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="34Ete5r9mKEJG7yDct78-214">
+          <mxCell edge="1" parent="34Ete5r9mKEJG7yDct78-1" source="34Ete5r9mKEJG7yDct78-107" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#82b366;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="rfIipkeqp4AfCaHQojGj-27">
+            <mxGeometry relative="1" width="240" as="geometry">
+              <Array as="points" />
+              <mxPoint x="1350" y="867" as="sourcePoint" />
+              <mxPoint x="1984" y="960" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="TSQL" c4Description="Query DB" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="34Ete5r9mKEJG7yDct78-99">
+          <mxCell edge="1" parent="34Ete5r9mKEJG7yDct78-1" source="rfIipkeqp4AfCaHQojGj-47" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=light-dark(#666666, #ededed);elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;fillColor=#d5e8d4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.881;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;" target="34Ete5r9mKEJG7yDct78-5">
+            <mxGeometry relative="1" width="240" x="0.2095" y="-2" as="geometry">
+              <mxPoint as="offset" />
+              <mxPoint x="1540" y="996" as="sourcePoint" />
+              <mxPoint x="1945" y="1191" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
