@@ -15,7 +15,7 @@
           </mxCell>
         </object>
         <mxCell id="HljXzRQB-eBifavqBoGV-3" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;align=left;verticalAlign=top;fillColor=none;strokeColor=none;fontColor=#4D4D4D;fontStyle=1;spacingLeft=6;spacing=0;resizable=0;" value="Legend" vertex="1">
-          <mxGeometry height="150" width="180" x="1020" y="590" as="geometry" />
+          <mxGeometry height="150" width="180" x="1340" y="340" as="geometry" />
         </mxCell>
         <mxCell id="HljXzRQB-eBifavqBoGV-4" parent="HljXzRQB-eBifavqBoGV-3" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" value="" vertex="1">
           <mxGeometry height="30" width="180" y="30" as="geometry" />
