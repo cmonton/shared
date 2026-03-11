@@ -342,7 +342,7 @@
         </mxCell>
         <object placeholders="1" c4Name="Digital Accountant" c4Type="SystemScopeBoundary" c4Application="Software System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="vwTVmeSowXeFEEmbMs5H-23">
           <mxCell parent="vwTVmeSowXeFEEmbMs5H-1" style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
-            <mxGeometry height="1000" width="910" x="200" y="-10" as="geometry" />
+            <mxGeometry height="1000" width="940" x="200" y="-10" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Local Support User" c4Type="Person" c4Description="Local Support User" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="vwTVmeSowXeFEEmbMs5H-26">
@@ -386,7 +386,7 @@
         </mxCell>
         <object placeholders="1" c4Name="Download Activity" c4Type="Software System" c4Description="Digital Accountant" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_XLqJZrA2XuILjtjnyrt-7">
           <mxCell parent="vwTVmeSowXeFEEmbMs5H-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
-            <mxGeometry height="120" width="240" x="810" y="470" as="geometry" />
+            <mxGeometry height="120" width="240" x="810" y="350" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="_XLqJZrA2XuILjtjnyrt-19" edge="1" parent="vwTVmeSowXeFEEmbMs5H-1" source="_XLqJZrA2XuILjtjnyrt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vwTVmeSowXeFEEmbMs5H-6">
@@ -417,7 +417,7 @@
         </mxCell>
         <object placeholders="1" c4Name="Finish Activity" c4Type="Software System" c4Description="Digital Accountant" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_XLqJZrA2XuILjtjnyrt-14">
           <mxCell parent="vwTVmeSowXeFEEmbMs5H-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
-            <mxGeometry height="120" width="240" x="800" y="300" as="geometry" />
+            <mxGeometry height="120" width="240" x="800" y="170" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="_XLqJZrA2XuILjtjnyrt-21" edge="1" parent="vwTVmeSowXeFEEmbMs5H-1" source="_XLqJZrA2XuILjtjnyrt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" target="vwTVmeSowXeFEEmbMs5H-4">
@@ -468,7 +468,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="750" y="530" />
-              <mxPoint x="750" y="360" />
+              <mxPoint x="750" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -491,6 +491,17 @@
           <mxGeometry relative="1" x="-0.1522" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Clean Files" c4Type="Software System" c4Description="Digital Accountant" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_XLqJZrA2XuILjtjnyrt-36">
+          <mxCell parent="vwTVmeSowXeFEEmbMs5H-1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="810" y="492" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="_XLqJZrA2XuILjtjnyrt-37" edge="1" parent="vwTVmeSowXeFEEmbMs5H-1" source="_XLqJZrA2XuILjtjnyrt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="_XLqJZrA2XuILjtjnyrt-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_XLqJZrA2XuILjtjnyrt-38" edge="1" parent="vwTVmeSowXeFEEmbMs5H-1" source="_XLqJZrA2XuILjtjnyrt-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="vwTVmeSowXeFEEmbMs5H-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
